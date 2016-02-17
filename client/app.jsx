@@ -1,7 +1,7 @@
 import React from 'react';
 
 // define and export our Layout component
-export const Layout = ({content}) => (
+export const Layout = ({ content }) => (
     <div>
         <h1>My App</h1>
         <hr />
@@ -9,9 +9,3 @@ export const Layout = ({content}) => (
     </div>
 );
 
-// define and export our Welcome component
-export const Welcome = ({name}) => (
-    <div>
-        Hello, {name}.
-    </div>
-);
