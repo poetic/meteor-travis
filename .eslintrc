@@ -2,10 +2,6 @@
   // Following AirBnB's lead
   "extends": "airbnb",
   "esnext": "true",
-  "rules": {
-    "react/jsx-quotes": 0,
-    "jsx-quotes": [2, "prefer-double"]
-  },
   // To configure global variables inside of a configuration file, use the
   // globals key and indicate the global variables you want to use. Set each
   // global variable name equal to true to allow the variable to be overwritten
