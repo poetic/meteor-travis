@@ -9,6 +9,7 @@ node_js:
   - '4.1.1'
 before_install:
   - npm i -g npm@^2.0.0
+  - npm install -g eslint-config-airbnb eslint-plugin-react eslint
 before_script:
   - npm prune
 script:
