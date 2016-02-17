@@ -8,4 +8,3 @@ export const Layout = ({ content }) => (
         <div>{content}</div>
     </div>
 );
-

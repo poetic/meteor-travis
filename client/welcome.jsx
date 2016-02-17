@@ -1,6 +1,6 @@
 // define and export our Welcome component
 export const Welcome = ({ name }) => (
-    <div>
+       <div>
         Hello, {name}.
      </div>
-)
+);
