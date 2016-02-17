@@ -2,5 +2,5 @@
 export const Welcome = ({ name }) => (
     <div>
         Hello, {name}.
-    </div>
+     </div>
 )
