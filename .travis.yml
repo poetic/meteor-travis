@@ -20,4 +20,3 @@ after_success:
 branches:
   except:
     - "/^v\\d+\\.\\d+\\.\\d+$/"
-Status API Training Shop Blog About Pricing
